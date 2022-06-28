@@ -1,14 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Youne Eun</h1>
+
+<div align="center">
+ <img src="./github-header-image.png" width="550px"/>
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Youne Eun</h1> -->
 
 </br>
 
 <!-- <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" /> -->
 
 
-
+<!-- 
 - 🌱 I’m currently learning **React, Next.js, TypeScript**
-- 📄 Know about my experiences [resume](https://lowly-headline-5ca.notion.site/9916355981b7424aa1acdebb4c853fad)
+- 📄 Know about my experiences [resume](https://lowly-headline-5ca.notion.site/9916355981b7424aa1acdebb4c853fad) -->
 
 
 
@@ -67,4 +71,10 @@
         style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
      </a>
 </p>
-   
+  
+<br/>
+                                                                    
+<div align="center">
+ <img src="./github-footer-image .png" width="550px"/>
+</div>
+                                                                    
