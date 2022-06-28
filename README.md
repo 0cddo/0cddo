@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
            style="height: 20px; margin-left: 10px; margin-right: 15px;/>
      </a>
-      <a href="https://0cddo-room.tistory.com" target="_blank">
+     <a href="https://0cddo-room.tistory.com" target="_blank">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://0cddo-room.tistory.com"
         style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
      </a>
