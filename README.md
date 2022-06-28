@@ -58,15 +58,15 @@
  <br/>
  <h2 align="center">🐥 ME! 🐥</h2>
 <p align="center">
-      <a href="mailto:0cddo@gmail.com" target_blank>
+      <a href="mailto:0cddo@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
            style="height: 20px; margin-left: 10px; margin-right: 15px;/>
      </a>
-      <a href="https://0cddo-room.tistory.com/" target_blank>
+      <a href="https://0cddo-room.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://0cddo-room.tistory.com/"
         style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
      </a>
-      <a href="https://www.linkedin.com/in/youngeun-shim-40b4b3200/" target_blank>
+      <a href="https://www.linkedin.com/in/youngeun-shim-40b4b3200/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
      </a>
