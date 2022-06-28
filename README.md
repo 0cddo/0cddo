@@ -1,18 +1,27 @@
 
 <h1 align="center">Hi 👋, I'm Youne Eun</h1>
-<h3 align="center">👩‍💻 Frontend Developer</h3>
-<br>
 
-- 🌱 I’m currently learning **React, Next.js, TypeScript**
-
-- 📝 I regularly write articles on [my blog](https://0cddo-room.tistory.com/)
-
-- 📫 How to reach me [by email](0.c.dddo@gmail.com)
-
-- 📄 Know about my experiences [resume](https://lowly-headline-5ca.notion.site/9916355981b7424aa1acdebb4c853fad)
 </br>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+
+
+
+  - 🌱 I’m currently learning **React, Next.js, TypeScript**
+
+- 📄 Know about my experiences [resume](https://lowly-headline-5ca.notion.site/9916355981b7424aa1acdebb4c853fad)
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+ <h2 align="center"> 🛠 Tech Stack 🛠</h2>
+
 <div align="center">
   <div >
       <img
@@ -46,8 +55,21 @@
         style="height: 20px; margin-left: 10px; margin-right: 15px;"
       />
   </div>
-    </div>
-    
-<div>
- ![0cddo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0cddo&hide=contribs,prs)
-</div>
+ </br>
+ 
+![0cddo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0cddo&hide_border=true&layout=compact)
+  
+ </div>   
+ 
+ <h2 align="center">🐥 ME! 🐥</h2>
+<p align="center">
+      <a href="mailto:0cddo@gmail.com" target_blank>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+           style="height: 20px; margin-left: 10px; margin-right: 15px;/>
+     </a>
+      <a href="https://0cddo-room.tistory.com/" target_blank>
+      <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://0cddo-room.tistory.com/"
+        style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
+     </a>
+</p>
+   
