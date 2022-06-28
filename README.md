@@ -3,21 +3,13 @@
 
 </br>
 
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+<!-- <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" /> -->
 
 
 
-  - 🌱 I’m currently learning **React, Next.js, TypeScript**
-
+- 🌱 I’m currently learning **React, Next.js, TypeScript**
 - 📄 Know about my experiences [resume](https://lowly-headline-5ca.notion.site/9916355981b7424aa1acdebb4c853fad)
- 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 
  <h2 align="center"> 🛠 Tech Stack 🛠</h2>
@@ -58,9 +50,8 @@
  </br>
  
 ![0cddo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0cddo&hide_border=true&layout=compact)
-  
  </div>   
- 
+ <br/>
  <h2 align="center">🐥 ME! 🐥</h2>
 <p align="center">
       <a href="mailto:0cddo@gmail.com" target_blank>
@@ -69,6 +60,10 @@
      </a>
       <a href="https://0cddo-room.tistory.com/" target_blank>
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://0cddo-room.tistory.com/"
+        style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
+     </a>
+      <a href="https://www.linkedin.com/in/youngeun-shim-40b4b3200/" target_blank>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         style="height: 20px; margin-left: 10px; margin-right: 15px;"/>
      </a>
 </p>
